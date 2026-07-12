@@ -1,0 +1,6 @@
+{
+  "setup": "mkdir -p a/b/c",
+  "welcome": "Welcome to this workshop",
+  "welcomeCmd": "ls -l",
+  "tools": ["vim"]
+}
